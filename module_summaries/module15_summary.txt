@@ -1,0 +1,21 @@
+The speaker is creating a COVID-19 stats web app using React. They start by explaining the functionality of the app, which includes displaying cases for each country and a search box to find specific countries. The speaker then dives into the code, converting a functional component to a class component to utilize more functions and methods. They explain key concepts such as JSX syntax, state, and constructor, and demonstrate how to inject JavaScript objects into the render method using curly braces. The video aims to provide an introduction to building the app while also explaining fundamental React concepts.
+
+The speaker is explaining how to use React to build a component and manage its state. They start by creating a button that changes the name of an object from "dot state dot name" to "Michael". To achieve this, they use the `setState` method, which updates the component's state.
+
+They then explain how to convert a functional component to a class component, and introduce the concept of JSX (JavaScript XML), which allows you to write HTML-like code inside JavaScript. They also demonstrate how to use events in React, such as clicking a button to trigger a state change.
+
+In the second part of the video, the speaker shows how to build custom components, including a "Country" component and a wrapper component called "Contrarilyist". They also discuss the importance of getting country codes for each country component and introduce the concept of the Spread Operator in JavaScript, which allows you to spread out the contents of an object or array.
+
+Overall, the video covers basic concepts in React, such as state management, events, and JSX, and sets the stage for building more complex components in future videos.
+
+The text appears to be a transcript of a video tutorial on building a React application. The speaker is guiding the viewer through the process of creating components, specifically a "Country List" component and a "Country" component. They demonstrate how to create folders and files for these components, import React, and use functional components. They also explain how to pass data between components using props. The speaker emphasizes the importance of writing clean code, debugging, and organizing files in a systematic way. The tutorial is focused on building a simple application that displays country codes and statistics.
+
+The text appears to be a transcript of two video tutorials on React development. 
+
+In the first part, the speaker discusses how to import and export components, specifically a "country" component. They also explain how to use the `map` method in JSX and the importance of assigning a unique key prop to each child element in a list, using the country code as an example.
+
+In the second part, the speaker starts styling the components and uses an API (Country Flags API) to display country flags next to the country names. They demonstrate how to use string interpolation to dynamically insert the country code into the API link and how to add alt text to the flag images. They also start adding descriptions to the country list, including active COVID-19 cases. 
+
+Overall, the tutorials cover basic React concepts such as component import/export, JSX syntax, and using APIs to fetch data.
+
+The speaker is working on a project, using string interpolation and styling with CSS. They created a country list and styled it using grid display and template columns, making it responsive. They also created separate CSS files for the country list and individual countries. The speaker demonstrated how to import and use these CSS files in their JavaScript code. The project is half complete, and in the next video, they plan to create a search box that can be used in any part of the project.

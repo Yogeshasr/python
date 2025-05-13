@@ -1,0 +1,90 @@
+{
+    "1": {
+        "difficulty": "beginner",
+        "question_text": "What is the main theme described in the given text?",
+        "options": {
+            "option1": "A world of peace",
+            "option2": "A world of war",
+            "option3": "A world of technology",
+            "option4": "A world of nature"
+        },
+        "correct_answer": "option2"
+    },
+    "2": {
+        "difficulty": "intermediate",
+        "question_text": "What is the tone of the speaker in the given text?",
+        "options": {
+            "option1": "Optimistic",
+            "option2": "Pessimistic",
+            "option3": "Neutral",
+            "option4": "Sarcastic"
+        },
+        "correct_answer": "option2"
+    },
+    "3": {
+        "difficulty": "advanced",
+        "question_text": "What literary device is used in the repetition of 'A world of war' in the given text?",
+        "options": {
+            "option1": "Metaphor",
+            "option2": "Simile",
+            "option3": "Alliteration",
+            "option4": "Emphasis through repetition"
+        },
+        "correct_answer": "option4"
+    },
+    "4": {
+        "difficulty": "intermediate",
+        "question_text": "What is implied about the enemy mentioned in the text?",
+        "options": {
+            "option1": "It is easily defeatable",
+            "option2": "It is a powerful nation",
+            "option3": "It cannot be defeated",
+            "option4": "It is a natural disaster"
+        },
+        "correct_answer": "option3"
+    },
+    "5": {
+        "difficulty": "beginner",
+        "question_text": "What is the primary function of the CPU in a computer system?",
+        "options": {
+            "option1": "To store data permanently",
+            "option2": "To provide input/output operations",
+            "option3": "To control and execute instructions",
+            "option4": "To connect hardware components"
+        },
+        "correct_answer": "option3"
+    },
+    "6": {
+        "difficulty": "intermediate",
+        "question_text": "Which programming paradigm is based on the concept of objects and classes?",
+        "options": {
+            "option1": "Functional Programming",
+            "option2": "Object-Oriented Programming",
+            "option3": "Imperative Programming",
+            "option4": "Declarative Programming"
+        },
+        "correct_answer": "option2"
+    },
+    "7": {
+        "difficulty": "advanced",
+        "question_text": "What is the purpose of encapsulation in object-oriented programming?",
+        "options": {
+            "option1": "To expose internal implementation details",
+            "option2": "To hide internal implementation details",
+            "option3": "To improve code readability",
+            "option4": "To reduce code reusability"
+        },
+        "correct_answer": "option2"
+    },
+    "8": {
+        "difficulty": "intermediate",
+        "question_text": "What is the term for the process of reusing code in multiple parts of a program?",
+        "options": {
+            "option1": "Modularity",
+            "option2": "Abstraction",
+            "option3": "Inheritance",
+            "option4": "Polymorphism"
+        },
+        "correct_answer": "option1"
+    }
+}

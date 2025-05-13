@@ -1,0 +1,10 @@
+To create a new time sheet as an employee using the easy time application, follow these steps:
+
+1. Log in with your username and system password.
+2. Click on "New Time Sheet" from the onboarding screen.
+3. Select the time sheet period and click "New Line".
+4. Fill in the project, activity, hours logged, and supervisor details.
+5. Save each row individually.
+6. Submit the time sheet by selecting "Self" as the reviewer and confirming submission.
+
+This tutorial guides employees through a straightforward process to create and submit their time sheets using the easy time application.

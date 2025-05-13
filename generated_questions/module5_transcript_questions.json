@@ -1,0 +1,90 @@
+{
+    "1": {
+        "difficulty": "beginner",
+        "question_text": "What is the first step in creating a new time sheet in the easy time application?",
+        "options": {
+            "option1": "Click on the new time sheet button",
+            "option2": "Enter the username and password on the login page",
+            "option3": "Select the time sheet period",
+            "option4": "View all submitted time sheets"
+        },
+        "correct_answer": "option2"
+    },
+    "2": {
+        "difficulty": "intermediate",
+        "question_text": "What happens when you select the time sheet period in the new time sheet page?",
+        "options": {
+            "option1": "The fields below are deactivated",
+            "option2": "A pop-up appears to review the time sheet",
+            "option3": "The fields below are activated",
+            "option4": "You are taken back to the onboarding screen"
+        },
+        "correct_answer": "option3"
+    },
+    "3": {
+        "difficulty": "advanced",
+        "question_text": "What is the purpose of the review time sheet pop-up in the easy time application?",
+        "options": {
+            "option1": "To confirm the deletion of a time sheet",
+            "option2": "To verify the login credentials",
+            "option3": "To determine whether the time sheet is being filled for oneself or someone else",
+            "option4": "To select the time sheet period"
+        },
+        "correct_answer": "option3"
+    },
+    "4": {
+        "difficulty": "intermediate",
+        "question_text": "What action do you take after entering all the details of a particular row in the new time sheet page?",
+        "options": {
+            "option1": "Click on submit",
+            "option2": "Click on new line",
+            "option3": "Click on save",
+            "option4": "Click on login"
+        },
+        "correct_answer": "option3"
+    },
+    "5": {
+        "difficulty": "beginner",
+        "question_text": "What is the primary function of the CPU in a computer system?",
+        "options": {
+            "option1": "To store data permanently",
+            "option2": "To provide input/output operations",
+            "option3": "To control and execute instructions",
+            "option4": "To connect hardware components"
+        },
+        "correct_answer": "option3"
+    },
+    "6": {
+        "difficulty": "intermediate",
+        "question_text": "Which programming paradigm is based on the concept of objects and classes?",
+        "options": {
+            "option1": "Functional Programming",
+            "option2": "Object-Oriented Programming",
+            "option3": "Imperative Programming",
+            "option4": "Declarative Programming"
+        },
+        "correct_answer": "option2"
+    },
+    "7": {
+        "difficulty": "advanced",
+        "question_text": "What is the purpose of encapsulation in object-oriented programming?",
+        "options": {
+            "option1": "To expose internal implementation details",
+            "option2": "To hide internal implementation details and show only necessary information",
+            "option3": "To improve code readability and complexity",
+            "option4": "To reduce code reusability and flexibility"
+        },
+        "correct_answer": "option2"
+    },
+    "8": {
+        "difficulty": "intermediate",
+        "question_text": "What is the process of reusing code in object-oriented programming called?",
+        "options": {
+            "option1": "Inheritance",
+            "option2": "Polymorphism",
+            "option3": "Encapsulation",
+            "option4": "Abstraction"
+        },
+        "correct_answer": "option1"
+    }
+}

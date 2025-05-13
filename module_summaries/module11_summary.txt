@@ -1,0 +1,10 @@
+The tutorial explains how to create a new timesheet as an employee using the Easy Time application. The steps include:
+
+1. Logging in with a username and password
+2. Clicking on "New Timesheet" from the onboarding screen
+3. Selecting the timesheet period
+4. Filling in details such as project, activity, hours, and supervisor
+5. Saving each row of data
+6. Submitting the timesheet for review
+
+The tutorial guides users through a straightforward process to create and submit a new timesheet using the application.

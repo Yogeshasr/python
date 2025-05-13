@@ -1,0 +1,10 @@
+The tutorial explains how to create a new time sheet as an employee using the "Easy Time" application. The steps include:
+
+1. Logging in with a username and password
+2. Clicking on the "New Time Sheet" button
+3. Selecting the time sheet period
+4. Entering project, activity, hours, and supervisor details for each line item
+5. Saving each row
+6. Submitting the time sheet after reviewing it
+
+The tutorial guides the user through these steps to successfully create and submit a new time sheet using the application.

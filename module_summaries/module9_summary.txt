@@ -1,0 +1,10 @@
+The text discusses how to make React components reusable and dynamic using "props" (short for properties). Props allow you to pass data from a parent component to a child component, making it possible to display different information without having to create multiple versions of the same component. The text explains how to:
+
+* Specify props as attributes on a component
+* Retrieve prop values in the component using the `props` parameter
+* Use prop values in the component's JSX expression by wrapping them with curly braces
+* Pass multiple props to a component and use them to display different information
+
+The example used in the text is a "greet" component that displays a personalized greeting, where the name of the person being greeted is passed as a prop. The component is then reused multiple times with different names and hero names, demonstrating the reusability and flexibility of React components using props.
+
+The text discusses how to use props (short for "properties") in React components. Props are used to pass dynamic data from a parent component to a child component. There are two ways to pass props: as attributes or as children. When passing props as attributes, they can be accessed using the `props` object. When passing props as children, they can be accessed using `props.children`. The text also covers how to use props in functional and class components, and notes that props are immutable, meaning their values cannot be changed once set. This leads to a discussion of how to maintain component data that might change over time, which is addressed in the next video.

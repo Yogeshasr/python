@@ -1,0 +1,7 @@
+The speaker is building a React app and using an API to fetch country data. They create a state variable "countries" to store the data and use the `componentDidMount` lifecycle method to fetch the data when the component mounts. They then use the `fetch` API with async/await syntax to get the response and parse it as JSON.
+
+Next, they loop through each country and use another `fetch` call to get the COVID-19 case data for each country. They store this data in a separate state variable "stats" using the `setState` method with a callback function that concatenates the new data to the existing array.
+
+The speaker explains various JavaScript concepts, such as async/await syntax, string interpolation, and callback functions, and provides examples of how they are used in the code. They also demonstrate how to use the `setState` method with a callback function to update the state variable "stats" correctly.
+
+The text discusses a coding project using React, where the developer is fetching data about countries and their statistics. They explain how they used the `fetch` API with async/await to retrieve the data, and then set the state with the received data. The developer also encounters an issue with some countries not returning any data, which causes an error, but resolves it by checking the length of the data array before trying to access its elements. They then use JavaScript syntax inside curly braces to render the country names in the component. The video concludes by summarizing what was learned and teases that more will be covered in the next video.

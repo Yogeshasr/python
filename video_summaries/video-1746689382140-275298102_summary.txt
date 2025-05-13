@@ -1,0 +1,12 @@
+The creator is starting to build a new web app called "RoboFriends" in their video.
+
+The text describes setting up a React application using `create-react-app` to build a RoboFriends project. The author explains the process of installing the app, exploring the project structure, and understanding the dependencies, scripts, and components. They cover topics such as:
+
+* Installing `create-react-app` using `npx`
+* Understanding the project structure, including the `src` folder, `App.js`, and `index.js` files
+* Exploring the dependencies, including `react` and `react-dom`
+* Running the app using `npm start`
+* Building and testing the app
+* Understanding how React components work, including functional and class components
+
+The author also explains how the different parts of the project are linked together, including the `index.html` file in the `public` folder and the `App.js` component. The goal is to build a simple React project, RoboFriends, which displays a list of robots with their names and emails, and allows filtering by name.

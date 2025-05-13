@@ -1,0 +1,25 @@
+The text discusses how to make React components reusable and dynamic using "props" (short for properties). Props allow you to pass data from a parent component to a child component, making it possible to render different content with the same component. The process involves:
+
+1. Adding attributes to the child component in the parent component's JSX code.
+2. Accessing these attributes in the child component using the `props` parameter.
+3. Using the `props` object to display the passed data in the child component.
+
+The text provides an example of a "Grid" component that is reused three times with different names and hero names, demonstrating how props make components more dynamic and reusable. Additionally, it explains how to use curly braces `{}` to evaluate JSX expressions and render dynamic content.
+
+The text discusses how to use props (short for properties) in React components. Props are used to pass dynamic data from a parent component to a child component. The author explains that props can be passed as attributes or as children, which is content placed between the opening and closing tags of a component. The author also demonstrates how to access props in both functional and class components.
+
+The key points covered include:
+
+* Props are immutable, meaning their value cannot be changed once set
+* Props can be passed as attributes or as children
+* In functional components, props are accessed using the `props` parameter
+* In class components, props are accessed using `this.props`
+* React components must act like pure functions with respect to their props
+
+The author also mentions that props are a fundamental feature in React and will be used in most practical applications. However, since props are immutable, they cannot be used to store data that changes over time, which will be discussed in the next video.
+
+There is also an unrelated section at the end of the text that appears to be a transcript from a different video tutorial about creating a new time sheet as an employee using the "Easy Time" application.
+
+The text describes a step-by-step process for creating and submitting a new time sheet. The user logs in, clicks on "new time sheet", selects the time period, and enters details such as project, activity, hours worked, and supervisor. After saving each row of data, they submit the time sheet and confirm that it is for themselves.
+
+The second part of the text appears to be unrelated and consists of a poetic or lyrical passage with repetitive phrases and a musical tone. It does not seem to be connected to the first part of the text.

@@ -1,0 +1,14 @@
+The video tutorial shows how to create and run a Python script (.py file) using IDLE IDE. The instructor creates a simple program that asks the user to input three numbers and outputs the maximum number. The code uses the `input` function to get user input, converts the input to float values, and uses the `max` function to find the maximum value. The instructor then runs the code using IDLE's "Run Module" option and demonstrates how the program works by entering sample inputs and displaying the correct output.
+
+The text discusses how to run a Python file (.py) without an IDE (Integrated Development Environment). To do so, the user can simply double-click on the .py file, which will open it in the terminal. However, the terminal will close immediately after executing the program. To prevent this, the user can add an input method at the end of the program that asks the user to press a key before exiting.
+
+The text also explains that Python is an interpreted language, meaning that it does not need to be compiled into an executable file before running. This is in contrast to languages like Java, C++, and C, which require compilation.
+
+Finally, the text shows how to run a Python file using the command prompt (in Windows). The user can open the command prompt, type "python" to check if it's working, and then navigate to the location of the .py file and type "python filename.py" to run it.
+
+The text explains how to execute a Python file from a command prompt or terminal without using an Integrated Development Environment (IDE). There are two methods:
+
+1. **Direct Execution**: Copy the full path of the Python file, type "python" in the command prompt, paste the path, and press enter.
+2. **Changing Directory**: Use the "cd" command to change the directory to where the Python file is located, then type "python" followed by the filename (e.g., "hello.py") and press enter.
+
+Both methods allow you to run a Python script from the terminal without any special software.

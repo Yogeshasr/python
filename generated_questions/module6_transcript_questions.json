@@ -1,0 +1,398 @@
+{
+    "1": {
+        "difficulty": "beginner",
+        "question_text": "What is the main purpose of the documentation section in a C++ program?",
+        "options": {
+            "option1": "To write the actual code of the program",
+            "option2": "To include information about the author and date of the program",
+            "option3": "To define variables and functions",
+            "option4": "To implement object-oriented programming concepts"
+        },
+        "correct_answer": "option2"
+    },
+    "2": {
+        "difficulty": "intermediate",
+        "question_text": "Which type of comment is used to write multiple lines of comments in a C++ program?",
+        "options": {
+            "option1": "Single line comment",
+            "option2": "Multiple line comment",
+            "option3": "Block comment",
+            "option4": "Inline comment"
+        },
+        "correct_answer": "option2"
+    },
+    "3": {
+        "difficulty": "advanced",
+        "question_text": "What is the effect of including comments in a C++ program on the compilation process?",
+        "options": {
+            "option1": "Comments are compiled into object code",
+            "option2": "Comments are ignored by the compiler and do not affect the compilation process",
+            "option3": "Comments slow down the compilation process",
+            "option4": "Comments are required for successful compilation"
+        },
+        "correct_answer": "option2"
+    },
+    "4": {
+        "difficulty": "beginner",
+        "question_text": "Are all sections of a C++ program compulsory to include?",
+        "options": {
+            "option1": "Yes, all sections are compulsory",
+            "option2": "No, only two or three sections are compulsory",
+            "option3": "It depends on the type of program being written",
+            "option4": "There is no specific requirement for including sections in a C++ program"
+        },
+        "correct_answer": "option2"
+    },
+    "5": {
+        "difficulty": "beginner",
+        "question_text": "What is the purpose of including a header file in a C++ program?",
+        "options": {
+            "option1": "To define custom functions and classes",
+            "option2": "To declare built-in functions, constants, and objects",
+            "option3": "To implement the main function",
+            "option4": "To compile the program"
+        },
+        "correct_answer": "option2"
+    },
+    "6": {
+        "difficulty": "intermediate",
+        "question_text": "What is a namespace in C++?",
+        "options": {
+            "option1": "A library file that contains built-in functions and objects",
+            "option2": "A container for identifiers, such as function names and object names",
+            "option3": "A type of data structure used to store variables",
+            "option4": "A compiler directive used to optimize code"
+        },
+        "correct_answer": "option2"
+    },
+    "7": {
+        "difficulty": "advanced",
+        "question_text": "Why are namespaces used in C++?",
+        "options": {
+            "option1": "To improve code readability and organization",
+            "option2": "To resolve name conflicts between identifiers",
+            "option3": "To increase the speed of compilation",
+            "option4": "To reduce memory usage"
+        },
+        "correct_answer": "option2"
+    },
+    "8": {
+        "difficulty": "intermediate",
+        "question_text": "What is the purpose of the iostream header in C++?",
+        "options": {
+            "option1": "To declare mathematical functions and constants",
+            "option2": "To define input/output stream objects, such as cin and cout",
+            "option3": "To implement file input/output operations",
+            "option4": "To provide support for multithreading"
+        },
+        "correct_answer": "option2"
+    },
+    "9": {
+        "difficulty": "beginner",
+        "question_text": "What is the purpose of using namespaces in C++?",
+        "options": {
+            "option1": "To increase the execution speed of a program",
+            "option2": "To resolve name conflicts between variables and functions",
+            "option3": "To decrease the memory usage of a program",
+            "option4": "To make the code more complicated"
+        },
+        "correct_answer": "option2"
+    },
+    "10": {
+        "difficulty": "intermediate",
+        "question_text": "What is the difference between the old '.h' header files and the new standard headers?",
+        "options": {
+            "option1": "The old '.h' header files are used for input/output operations, while the new standard headers are used for mathematical operations",
+            "option2": "The old '.h' header files do not support namespaces, while the new standard headers support namespaces",
+            "option3": "The old '.h' header files are supported by modern compilers, while the new standard headers are only supported by older compilers",
+            "option4": "The old '.h' header files are considered non-standard, while the new standard headers are considered standard"
+        },
+        "correct_answer": "option4"
+    },
+    "11": {
+        "difficulty": "advanced",
+        "question_text": "How do namespaces help in organizing code and avoiding conflicts?",
+        "options": {
+            "option1": "By allowing multiple functions with the same name to be defined",
+            "option2": "By grouping related classes, variables, and functions under a unique name",
+            "option3": "By automatically generating unique names for all variables and functions",
+            "option4": "By disabling the use of certain keywords and functions"
+        },
+        "correct_answer": "option2"
+    },
+    "12": {
+        "difficulty": "intermediate",
+        "question_text": "Why is it necessary to use the 'using namespace STD;' directive in C++ programs?",
+        "options": {
+            "option1": "To avoid naming conflicts between standard library functions and user-defined functions",
+            "option2": "To allow the use of standard library functions without qualifying them with the 'STD::' prefix",
+            "option3": "To increase the performance of the program by reducing the number of namespace lookups",
+            "option4": "To make the code more readable by eliminating the need for explicit namespace qualifications"
+        },
+        "correct_answer": "option2"
+    },
+    "13": {
+        "difficulty": "beginner",
+        "question_text": "What is the purpose of using namespaces in programming?",
+        "options": {
+            "option1": "To reduce code readability",
+            "option2": "To resolve name conflicts between functions or objects",
+            "option3": "To increase compilation time",
+            "option4": "To decrease code maintainability"
+        },
+        "correct_answer": "option2"
+    },
+    "14": {
+        "difficulty": "intermediate",
+        "question_text": "How do you create a custom namespace in programming?",
+        "options": {
+            "option1": "Using the 'class' keyword",
+            "option2": "Using the 'namespace' keyword followed by the namespace name",
+            "option3": "Using the 'function' keyword",
+            "option4": "Using the 'variable' keyword"
+        },
+        "correct_answer": "option2"
+    },
+    "15": {
+        "difficulty": "advanced",
+        "question_text": "What is the effect of using the 'using namespace std;' directive in a program?",
+        "options": {
+            "option1": "It increases code readability by avoiding the need for scope resolution operators",
+            "option2": "It decreases code maintainability by introducing potential name conflicts",
+            "option3": "It has no impact on code compilation or execution",
+            "option4": "It improves code performance by reducing namespace lookups"
+        },
+        "correct_answer": "option1"
+    },
+    "16": {
+        "difficulty": "intermediate",
+        "question_text": "What is the purpose of the scope resolution operator (::) in programming?",
+        "options": {
+            "option1": "To access global variables",
+            "option2": "To define a new namespace",
+            "option3": "To resolve name conflicts between functions or objects in different namespaces",
+            "option4": "To increase code complexity"
+        },
+        "correct_answer": "option3"
+    },
+    "17": {
+        "difficulty": "beginner",
+        "question_text": "What are the two compulsory elements in a C++ program?",
+        "options": {
+            "option1": "Class and object",
+            "option2": "Main function and header file",
+            "option3": "Main function and using namespace std",
+            "option4": "Main function and class definition"
+        },
+        "correct_answer": "option2"
+    },
+    "18": {
+        "difficulty": "intermediate",
+        "question_text": "How do you define a class in C++?",
+        "options": {
+            "option1": "Using the 'class' keyword followed by the class name with the first letter capitalized and each subsequent word separated by capital letters",
+            "option2": "Using the 'struct' keyword followed by the class name with the first letter in lowercase and each subsequent word separated by underscores",
+            "option3": "Using the 'enum' keyword followed by the class name with the first letter in uppercase and each subsequent word separated by commas",
+            "option4": "Using the 'function' keyword followed by the class name with the first letter in lowercase and each subsequent word separated by parentheses"
+        },
+        "correct_answer": "option1"
+    },
+    "19": {
+        "difficulty": "advanced",
+        "question_text": "Where can you define the member functions of a class in C++?",
+        "options": {
+            "option1": "Only within the class definition",
+            "option2": "Only outside the class definition using the scope resolution operator",
+            "option3": "Both within and outside the class definition, depending on the syntax used",
+            "option4": "Neither within nor outside the class definition, as member functions are not allowed in C++"
+        },
+        "correct_answer": "option3"
+    },
+    "20": {
+        "difficulty": "intermediate",
+        "question_text": "What is the purpose of the 'using namespace std' directive in a C++ program?",
+        "options": {
+            "option1": "To import the standard library and avoid having to prefix standard library elements with 'std::'",
+            "option2": "To define a new namespace and assign it the name 'std'",
+            "option3": "To declare a variable of type 'namespace' named 'std'",
+            "option4": "To include a header file named 'namespace.hpp'"
+        },
+        "correct_answer": "option1"
+    },
+    "21": {
+        "difficulty": "beginner",
+        "question_text": "What is the purpose of the documentation section in a C++ program?",
+        "options": {
+            "option1": "To declare global variables",
+            "option2": "To define user-defined functions",
+            "option3": "To increase readability and maintainability of the program",
+            "option4": "To include header files"
+        },
+        "correct_answer": "option3"
+    },
+    "22": {
+        "difficulty": "intermediate",
+        "question_text": "Why is it considered a bad practice to include 'using namespace STD;' in a C++ program?",
+        "options": {
+            "option1": "It reduces the readability of the code",
+            "option2": "It increases the compilation time",
+            "option3": "It can lead to naming conflicts",
+            "option4": "It is not supported by modern compilers"
+        },
+        "correct_answer": "option3"
+    },
+    "23": {
+        "difficulty": "advanced",
+        "question_text": "What is the purpose of specifying the namespace when using objects from the STD namespace?",
+        "options": {
+            "option1": "To avoid naming conflicts",
+            "option2": "To reduce compilation time",
+            "option3": "To increase code readability",
+            "option4": "To define user-defined functions"
+        },
+        "correct_answer": "option1"
+    },
+    "24": {
+        "difficulty": "intermediate",
+        "question_text": "Why is the '.h' extension not included when including header files in modern C++ compilers?",
+        "options": {
+            "option1": "Because it is not a standard practice",
+            "option2": "Because modern compilers do not support it",
+            "option3": "Because it reduces code readability",
+            "option4": "Because it increases compilation time"
+        },
+        "correct_answer": "option2"
+    },
+    "25": {
+        "difficulty": "beginner",
+        "question_text": "What does the STD namespace contain in C++?",
+        "options": {
+            "option1": "Only input/output functions",
+            "option2": "All standard library functions and objects",
+            "option3": "Only mathematical operations",
+            "option4": "Only data types"
+        },
+        "correct_answer": "option2"
+    },
+    "26": {
+        "difficulty": "intermediate",
+        "question_text": "What is the purpose of the 'using namespace STD;' directive in C++?",
+        "options": {
+            "option1": "To import all standard library functions and objects",
+            "option2": "To define a new namespace",
+            "option3": "To declare a variable",
+            "option4": "To include a header file"
+        },
+        "correct_answer": "option1"
+    },
+    "27": {
+        "difficulty": "advanced",
+        "question_text": "How do you access a public member variable of a class using an object in C++?",
+        "options": {
+            "option1": "Using the scope resolution operator (::)",
+            "option2": "Using the dot operator (.)",
+            "option3": "Using the arrow operator (->)",
+            "option4": "Using the comma operator (,)"
+        },
+        "correct_answer": "option2"
+    },
+    "28": {
+        "difficulty": "intermediate",
+        "question_text": "What is the meaning of 'return 0;' at the end of the main function in C++?",
+        "options": {
+            "option1": "To return an error code to the operating system",
+            "option2": "To indicate successful termination of the program",
+            "option3": "To exit the program immediately",
+            "option4": "To start a new program"
+        },
+        "correct_answer": "option2"
+    },
+    "29": {
+        "difficulty": "beginner",
+        "question_text": "What is the purpose of the `using namespace` directive in C++?",
+        "options": {
+            "option1": "To define a new namespace",
+            "option2": "To import all elements from a namespace",
+            "option3": "To create a new class",
+            "option4": "To declare a variable"
+        },
+        "correct_answer": "option2"
+    },
+    "30": {
+        "difficulty": "intermediate",
+        "question_text": "What is the difference between `#define` and `const` in C++?",
+        "options": {
+            "option1": "`#define` is used for macros, while `const` is used for variables",
+            "option2": "`#define` is used for variables, while `const` is used for macros",
+            "option3": "`#define` and `const` are interchangeable",
+            "option4": "`#define` is used for functions, while `const` is used for classes"
+        },
+        "correct_answer": "option1"
+    },
+    "31": {
+        "difficulty": "advanced",
+        "question_text": "What is the order of execution of the following elements in a C++ program: `main()` function, class member functions, and global variables?",
+        "options": {
+            "option1": "Global variables, `main()` function, class member functions",
+            "option2": "`main()` function, class member functions, global variables",
+            "option3": "Class member functions, global variables, `main()` function",
+            "option4": "`main()` function, global variables, class member functions"
+        },
+        "correct_answer": "option4"
+    },
+    "32": {
+        "difficulty": "intermediate",
+        "question_text": "What is the purpose of the `link` section in a C++ program?",
+        "options": {
+            "option1": "To link external libraries to the program",
+            "option2": "To define a new namespace",
+            "option3": "To create a new class",
+            "option4": "To declare a variable"
+        },
+        "correct_answer": "option1"
+    },
+    "33": {
+        "difficulty": "beginner",
+        "question_text": "What is the primary function of the CPU in a computer system?",
+        "options": {
+            "option1": "To store data permanently",
+            "option2": "To provide input/output operations",
+            "option3": "To control and execute instructions",
+            "option4": "To connect hardware components"
+        },
+        "correct_answer": "option3"
+    },
+    "34": {
+        "difficulty": "intermediate",
+        "question_text": "Which programming paradigm is based on the concept of objects and classes?",
+        "options": {
+            "option1": "Functional Programming",
+            "option2": "Imperative Programming",
+            "option3": "Object-Oriented Programming",
+            "option4": "Declarative Programming"
+        },
+        "correct_answer": "option3"
+    },
+    "35": {
+        "difficulty": "advanced",
+        "question_text": "What is the purpose of encapsulation in object-oriented programming?",
+        "options": {
+            "option1": "To expose internal implementation details",
+            "option2": "To hide internal implementation details",
+            "option3": "To improve code readability",
+            "option4": "To increase code complexity"
+        },
+        "correct_answer": "option2"
+    },
+    "36": {
+        "difficulty": "intermediate",
+        "question_text": "What is the term for the process of reusing code in multiple parts of a program?",
+        "options": {
+            "option1": "Modularity",
+            "option2": "Abstraction",
+            "option3": "Inheritance",
+            "option4": "Polymorphism"
+        },
+        "correct_answer": "option1"
+    }
+}
